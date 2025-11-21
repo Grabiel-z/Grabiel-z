@@ -20,9 +20,16 @@
 
 ### Mis estadísticas de GitHub:
 
-![walleeva2018 GitHub stats](https://github-readme-stats.vercel.app/api?username=Grabiel-z&show_icons=true&theme=radical) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Grabiel-z&theme=radical)](https://git.io/streak-stats) 
-[![Most Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Grabiel-z&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Grabiel-z&show_icons=true&theme=radical&locale=es" height="180" alt="github stats" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Grabiel-z&theme=radical&locale=es" height="180" alt="streak stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grabiel-z&theme=radical&layout=compact&locale=es" height="180" alt="top langs" />
+</div>
+
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -71,5 +78,8 @@
 </p>
 
 <br/>
-
+<div align="center">
+    <img src="https://github.com/mahiiverse1/mahiiverse1/blob/main/bongo-cat.gif" width="500" height="300"/>
+      
+</div>
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/Grabiel-z?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Grabiel-z?style=social"> &nbsp;&nbsp; 
