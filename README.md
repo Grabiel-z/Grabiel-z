@@ -1,6 +1,7 @@
 # Hola soy Zairem👋
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/Grabiel-z?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Grabiel-z?style=social"> &nbsp;&nbsp; 
 
 
 
