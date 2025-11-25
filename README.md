@@ -18,10 +18,6 @@
 <br/>
 
 <div align="center">
-  <h3>📊 Mis estadísticas de GitHub</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=Grabiel-z&show_icons=true&theme=radical&locale=es" height="180" alt="github stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Grabiel-z&theme=radical&locale=es" height="180" alt="streak stats" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grabiel-z&layout=compact&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="165" alt="languages" />
 </div>
 
