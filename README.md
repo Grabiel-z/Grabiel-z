@@ -33,7 +33,7 @@
 - **Lenguajes Principales**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,python,java,ts,js,rust,go,kotlin" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,python,php,java,ts,js,rust,go,kotlin" />
   </a>
 </p>
 
