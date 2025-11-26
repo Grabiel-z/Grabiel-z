@@ -11,7 +11,7 @@
 <br/>
 
 <div align="center">
-  <h3>🐍 Contribuciones Destacadas del Último Año</h3>
+  <h3>🐍</h3>
   <img src="https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5" width="100%" alt="Snake Animation" />
 </div>
 
