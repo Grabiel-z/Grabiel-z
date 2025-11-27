@@ -11,6 +11,8 @@
 <br/>
 
 <div align="center">
+  <img width="512" height="286" alt="image" src="https://github.com/user-attachments/assets/3de80b08-5981-477d-8367-44ab91a9fd40" />
+
   <h3>🐍</h3>
   <img src="https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5" width="100%" alt="Snake Animation" />
 </div>
