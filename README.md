@@ -19,12 +19,9 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grabiel-z&layout=compact&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="165" alt="languages" />
-</div>
 
 <br/>
-<hr/>
+
 
 <h3 align="left">💻 Lenguajes y Herramientas:</h3>
 
